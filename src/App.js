@@ -64,7 +64,7 @@ export default function App() {
     gender: '',
     weight: '',
     size: '',
-    bmr: '500',
+    bmr: '',
   });
 
   const handleChange = event => {
